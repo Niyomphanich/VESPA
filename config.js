@@ -10,7 +10,7 @@ window.VGO_CONFIG = {
      ใส่ลิงก์ Web app ของ Google Apps Script เพื่อเปิดใช้ปุ่ม "เข้าสู่ระบบผู้ดูแล"
      ให้แก้ข้อความ/รูป/ลิงก์ฟอร์มจากหน้าเว็บได้ (วิธีติดตั้งดู README)
      เว้นว่าง "" = แก้ผ่านไฟล์นี้อย่างเดียว */
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbz_zU4W7l22kP3_uMyzT-N9H6n8fT6YhnqB1GIXWgFcYv_1wmTz9TXFhv4ursncVTi-fg/exec",
 
   /* false = ปิดเว็บชั่วคราว แสดงหน้า Coming soon */
   published: true,
