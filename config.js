@@ -89,7 +89,7 @@ window.VGO_CONFIG = {
     {time:"20:00", title:"Entertainment & Lucky Draw", desc:"ดนตรีสด และลุ้นรางวัลรวมกว่า 30,000 บาท"},
     {time:"21:30", title:"Closing", desc:""},
   ],
-  souvenir: {kicker:"ของชำร่วย", title:"กระเป๋าผ้าเวสป้า", value:"มูลค่า 299.-", limit:"200 ท่านแรก", img:"images/souvenir-bag.webp"},
+  souvenir: {kicker:"ของชำร่วย", title:"กระเป๋าผ้าเวสป้า", value:"มูลค่า 299.-", limit:"150 ท่านแรก", img:"images/souvenir-bag.webp"},
 
 
   /* ===== หน้าโปรโมชั่นในงาน (รูปใส่ที่ images ด้านบน promo1–promo4) ===== */
@@ -145,13 +145,13 @@ window.VGO_CONFIG = {
     {tone:"gold", k:"New Model", pre:"LX 125 i-Get ABS ราคาพิเศษ", big:"79,900.-", t:"ออกรถในงาน รับของแถมเพียบ", imgs:["images/lx-lilac-cut.webp"], go:"model"},
     {tone:"red", k:"Friend Get Friend", pre:"แนะนำเพื่อนมาซื้อเวสป้า", big:"รับเลย!", t:"ของสมนาคุณสำหรับผู้แนะนำ", imgs:["images/fgf-gifts.webp"], photo:true, go:"fgf"},
     {tone:"cream", k:"Vespa Clinic Day", pre:"ตรวจเช็คสภาพรถ", big:"ฟรี 10 รายการ", t:"เปลี่ยนถ่ายน้ำมันเครื่อง เริ่มต้น 990.-", imgs:["images/clinic-oil-set.webp"], go:"offers", tab:"clinic"},
-    {tone:"ink", k:"Free Flow", pre:"อาหารและเครื่องดื่ม", big:"ฟรีตลอดงาน", t:"+ กระเป๋าผ้าเวสป้า 200 ท่านแรก", imgs:["images/freeflow-set.webp"], go:"activities"},
+    {tone:"ink", k:"Free Flow", pre:"อาหารและเครื่องดื่ม", big:"ฟรีตลอดงาน", t:"+ กระเป๋าผ้าเวสป้า 150 ท่านแรก", imgs:["images/freeflow-set.webp"], go:"activities"},
   ],
 
   /* ===== กิจกรรม (คอลลาจ 4 ช่อง) size: big | wide | "" ===== */
   activities: [
     {size:"big", tone:"t-navy", en:"Lucky Draw", th:"ลุ้นรับรางวัลภายในงาน", lead:"มูลค่ากว่า 30,000.-", items:["เครื่องทำน้ำอุ่น","ไมโครเวฟ","เตาปิ้งย่าง"], note:"*สงวนสิทธิ์เฉพาะผู้ที่มาร่วมงานเท่านั้น", badge:"Win big", art:["images/prize-podium.webp"]},
-    {size:"wide", tone:"t-gold", en:"Special Souvenir", th:"ของชำร่วย กระเป๋าผ้าเวสป้า", lead:"มูลค่า 299.-", items:["จำกัด 200 ท่านแรก"], badge:"First 200", art:["images/gift-bag.webp"]},
+    {size:"wide", tone:"t-gold", en:"Special Souvenir", th:"ของชำร่วย กระเป๋าผ้าเวสป้า", lead:"มูลค่า 299.-", items:["จำกัด 150 ท่านแรก"], badge:"First 200", art:["images/gift-bag.webp"]},
     {size:"wide", tone:"t-red", en:"Carnival Games", th:"เกมยิงเป้า & โยนห่วง", lead:"เล่นสนุก รับของรางวัล", items:["เกมยิงเป้า","เกมโยนห่วง","รับของรางวัล"], badge:"Play & win", art:["images/carnival-games.webp"]},
     {size:"wide", tone:"t-cream", en:"Free Food", th:"อาหาร ฟรีตลอดงาน", items:["ไส้ย่าง","บาร์บีคิว","ยำ","เฟรนช์ฟรายส์","นักเก็ต","ปลาหมึกทอด"], badge:"All night", art:["images/food-set.webp"]},
     {size:"wide", tone:"t-ink", en:"Sweets & Drinks", th:"ของหวาน & เครื่องดื่ม ฟรีตลอดงาน", items:["ไอศกรีมซอฟต์เสิร์ฟ","ป๊อปคอร์น","สเลอปี้","เครื่องดื่มมีฟอง","น้ำอัดลม","น้ำเปล่า"], badge:"Free flow", art:["images/drinks-set.webp"]},
