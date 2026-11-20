@@ -165,7 +165,7 @@ window.VGO_CONFIG = {
     items: [
       {namePre:"รับทันที", name:"หมวกกันน็อค 1 ใบ", value:"มูลค่า 690.-", imgs:["images/gift-helmet.webp"]},
       {name:"รับเพิ่มอีก\u00a01\u00a0ชิ้น", nameRedInline:"ฟรี!", value:"มูลค่า 1,390.-", desc:"• เตาย่าง IMARFLEX\n• ลำโพง aiwa\n• พัดลม JisuLife", imgs:["images/gift-choice.webp"]},
-      {namePre:"รับฟรี!", desc:"• Gift Set VESPA\n• ตรวจเช็คสภาพรถฟรี\n   1 ปี (3 ระยะ)", value:"รวมมูลค่า 3,130.-", imgs:["images/gift-set-vespa.webp"]},
+      {namePre:"รับฟรี!", desc:"• Gift Set VESPA\n• ตรวจเช็คสภาพรถฟรี\n   1 ปี (3 ระยะ)", value:"มูลค่า 3,130.-", imgs:["images/gift-set-vespa.webp"]},
       {namePre:"รับฟรี!!", name:"ทะเบียน + พ.ร.บ.", imgs:["images/gift-registration2.webp"]},
       {name:"ดอกเบี้ยเริ่มต้น\nเพียง 0.65%\nต่อเดือน 60 งวด", poster:true, imgs:["images/krungsri-065.webp"], note:"*ตามเงื่อนไขที่บริษัทกำหนด"},
     ],
